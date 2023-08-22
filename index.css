@@ -1,0 +1,31 @@
+.bg-container{
+    background-color:aqua;
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+.input-box{
+    height:30px;
+    width:180px;
+    border-radius:30px;
+    border:2px solid rgb(14, 146, 109);
+    margin-bottom: 20px;
+    padding-left:10px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.card-container{
+    background-color:aqua;
+    height:auto;
+    width:300px;
+}
+.box{
+    height:35px;
+    width:35px;
+    background-color: cadetblue;
+    border-radius:30px;
+    margin:4px;
+    font-size:16px;
+    font-weight:600;
+}
